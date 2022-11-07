@@ -1,4 +1,16 @@
 - commits:
+    - subject: "minor: Add openbalena documentation"
+      hash: e14ec754903ffa5f49de15c258161d656edcaf98
+      body: ""
+      footer:
+        Signed-off-by: Vipul Gupta (@vipulgupta2048) <vipul@balena.io>
+        signed-off-by: Vipul Gupta (@vipulgupta2048) <vipul@balena.io>
+      author: Vipul Gupta (@vipulgupta2048)
+      nested: []
+  version: 3.8.0
+  title: "'minor: Add openbalena documentation'"
+  date: 2022-11-07T22:10:38.754Z
+- commits:
     - subject: "chore(deps): updated open-balena-s3 to 2.13.10"
       hash: ca7696fa183390c51a7a052b8c1c0458959b15e2
       body: |
