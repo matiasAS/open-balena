@@ -1,4 +1,19 @@
 - commits:
+    - subject: "chore(deps): update haproxy docker tag to v2"
+      hash: 5b59d94f806b9fbbc15975f4ccf04dd0970d3af8
+      body: |
+        Update haproxy to 2.7
+
+        Update haproxy from 1.9 to 2.7
+      footer:
+        Change-type: minor
+        change-type: minor
+      author: Renovate Bot
+      nested: []
+  version: 3.9.0
+  title: ""
+  date: 2022-12-09T08:58:39.238Z
+- commits:
     - subject: "minor: Add openbalena documentation"
       hash: 8aaac9229df6f367cc3ebd0a78f342336cba8121
       body: ""
